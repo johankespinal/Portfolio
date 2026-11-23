@@ -6,6 +6,7 @@
 **Soluciones digitales que conectan estrategia, contenido y tecnología.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-johankespinal-181717?logo=github&logoColor=white)](https://github.com/johankespinal)
+[![Sitio web](https://img.shields.io/badge/Web-webseodigital.es-0A7F62?logo=googlechrome&logoColor=white)](https://webseodigital.es/)
 ![Location](https://img.shields.io/badge/Ubicación-Perú-0A7F62)
 ![Focus](https://img.shields.io/badge/Enfoque-Automatización%20%2B%20IA-4F46E5)
 
@@ -98,7 +99,9 @@ Las referencias a proyectos describen trabajo o iniciativas reales; **no implica
 
 ## 🤝 Contacto
 
-Para consultas profesionales o colaboraciones, puedes conocer mi actividad a través de mi [perfil de GitHub](https://github.com/johankespinal).
+**Sitio web profesional:** [Web SEO Digital — webseodigital.es](https://webseodigital.es/)
+
+También puedes conocer mi actividad a través de mi [perfil de GitHub](https://github.com/johankespinal).
 
 ---
 
