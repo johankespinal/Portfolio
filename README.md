@@ -70,14 +70,6 @@ Proyecto de aplicación orientada a la organización personal mediante una exper
 
 **Estado:** en desarrollo. El código fuente no se publica en este portafolio.
 
-## 🔓 Herramientas abiertas para administradores
-
-### [WP Fleet Manager — auditoría de múltiples WordPress](tools/wp-fleet-manager/README.md)
-
-Utilidad gratuita en Python para **identificar instalaciones WordPress en una cuenta de hosting** y, opcionalmente con WP-CLI, consultar versiones del core y actualizaciones pendientes de plugins y temas. Genera informes locales HTML y CSV; no modifica los sitios.
-
-**Estado:** MVP público (0.1), con sintaxis comprobada; pendiente de pruebas en entornos reales. [Ver código e instrucciones](tools/wp-fleet-manager/README.md).
-
 ## 📱 Laboratorio de aplicaciones
 
 Estoy preparando una colección de **aplicaciones Android pequeñas, útiles y enfocadas en una función concreta**, con integración de IA cuando aporta valor.
