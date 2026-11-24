@@ -46,41 +46,32 @@ Mi enfoque: comprender un problema real, construir una solución mantenible y me
 
 > Estas tecnologías reflejan diferentes niveles de experiencia: algunas forman parte de mi trabajo consolidado y otras corresponden a desarrollos y aprendizaje activos.
 
-## 🚀 Experiencia y proyectos seleccionados
+## 🌟 Proyectos destacados — demos para probar
 
-### 1. Automatización de publicación para WordPress
-Desarrollo y evolución de herramientas para trabajar con listas CSV, generar o transformar contenido y publicarlo mediante endpoints REST personalizados. Incluye controles de formato, manejo de errores, reintentos y validaciones.
+Estos proyectos son demostraciones propias que permiten conocer el diseño y probar funciones de ejemplo. **No son sistemas comerciales con servidor ni trabajos realizados por encargo.**
 
-**Tecnologías:** Python · WordPress · REST API · procesamiento de datos · integración de IA.
-
-### 2. Operación y optimización de sitios web
-Gestión técnica de múltiples sitios WordPress, con trabajo en arquitectura SEO, taxonomías, enlazado interno, migraciones de hosting, mantenimiento y diagnóstico de incidencias.
-
-**Áreas:** SEO técnico · WordPress · hosting · Cloudflare · administración web.
-
-### 3. Herramientas internas para productividad digital
-Scripts y utilidades orientados a reducir operaciones manuales en mantenimiento web, procesamiento de información, preparación de contenidos e integración de servicios.
-
-**Tecnologías:** Python · automatización · APIs · CSV.
-
-### 4. Qelaria — asistente personal inteligente (en desarrollo)
-Proyecto de aplicación orientada a la organización personal mediante una experiencia conversacional. Sirve como laboratorio de aprendizaje y desarrollo en arquitectura de aplicaciones móviles, interacción con IA y gestión de información.
-
-**Tecnologías y enfoque:** React Native · Expo · TypeScript · UX conversacional · IA.
-
-**Estado:** en desarrollo. El código fuente no se publica en este portafolio.
-
-## 📱 Laboratorio de aplicaciones
-
-Estoy preparando una colección de **aplicaciones Android pequeñas, útiles y enfocadas en una función concreta**, con integración de IA cuando aporta valor.
-
-| Concepto | Qué busca resolver | Estado |
+| Proyecto | Qué demuestra | Enlaces |
 | --- | --- | --- |
-| **Pasito IA** | Convertir objetivos en pasos accionables. | Concepto |
-| **Nota IA** | Organizar notas e ideas en lenguaje natural. | Concepto |
-| **Responde IA** | Ayudar a redactar mensajes en diferentes tonos. | Concepto |
+| **Mi Negocio PRO · Sistemas JK** | Panel administrativo, compras, ventas, balance, pedidos y dictado experimental | [Abrir demo](https://johankespinal.github.io/sistemas-jk-mi-negocio-pro-demo/) · [Código](https://github.com/johankespinal/sistemas-jk-mi-negocio-pro-demo) |
+| **Agenda Fácil PRO · Sistemas JK** | Citas, clientes, servicios, calendario y reportes | [Código](https://github.com/johankespinal/sistemas-jk-mi-agenda-facil-pro-demo) |
+| **WordPress Tools** | Herramientas de diagnóstico para WordPress, redirecciones y migraciones | [Ver herramientas](https://github.com/johankespinal/wordpress-plugins) |
 
-Las fichas, capturas y enlaces de descarga se añadirán **cuando existan versiones funcionales verificadas**. Los repositorios de código comercial pueden permanecer privados.
+> Los datos de ambas demos web se guardan localmente en el navegador y no se deben utilizar con información real o sensible. Para un producto comercial hacen falta backend, usuarios, permisos y copias de seguridad.
+
+**[Visitar el catálogo Sistemas JK](https://github.com/johankespinal/sistemas-jk)**
+
+## 📱 Aplicaciones propias — Qelaria Studio
+
+Trabajo en apps Android con React Native, Expo y TypeScript. Los repositorios de **Guárdalo, A Tiempo, Huellita y Ensaya** son privados, y no se presentan aquí como aplicaciones publicadas en tiendas. Sus versiones y funcionalidades siguen en evaluación.
+
+**Qelaria** es además un proyecto de asistente personal conversacional en desarrollo; su código fuente no se distribuye desde este portafolio.
+
+## 🛠️ Experiencia y proyectos técnicos
+
+- **SEO y WordPress:** arquitectura, taxonomías, optimización, mantenimiento y resolución de incidencias.
+- **Automatización de publicación:** herramientas Python para procesar CSV, transformar contenidos y trabajar con endpoints REST de WordPress.
+- **Operación de sitios web:** migraciones, diagnóstico de hosting, Cloudflare y mantenimiento técnico.
+- **Inteligencia artificial aplicada:** integración de APIs y prototipos de automatización con supervisión.
 
 ## 💼 Servicios y colaboraciones
 
